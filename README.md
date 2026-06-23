@@ -1,6 +1,6 @@
 # Hi there, I'm Dilshad Khan 👋
 
-## Shopify Developer | React.js Developer | Full Stack Developer
+## Shopify Developer | React.js & React Native Developer | Full Stack Engineer 
 
 I am a passionate developer focused on building modern web applications and e-commerce solutions.
 
