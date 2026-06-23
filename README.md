@@ -51,8 +51,8 @@ Tools:
 
 ### 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-linkedin
-* Portfolio: https://your-portfolio.com
+* LinkedIn: https://www.linkedin.com/in/dilshad-khan-75557a244/
+* Portfolio: https://dilshad-portfolio.com
 * GitHub: https://github.com/Dilshadkhan08
 
 ### 🤝 Open To
