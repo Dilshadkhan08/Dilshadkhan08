@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Dilshad Khan 👋
 
-<!--
-**Dilshadkhan08/Dilshadkhan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Shopify Developer | React.js Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building modern web applications and e-commerce solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Founding Engineer at Vyora.club, where I help build scalable web and mobile products from the ground up.
+
+### 🚀 What I Do
+
+* Shopify Store Development
+* Shopify Theme Customization
+* React.js Frontend Development
+* Full Stack Web Applications
+* API Integrations
+* Responsive UI Development
+* Mobile Apps with React Native
+
+### 🛠️ Tech Stack
+
+Frontend:
+
+* React.js
+* React Native
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+Backend:
+
+* Node.js
+* Express.js
+* REST APIs
+
+Tools:
+
+* Git
+* GitHub
+* VS Code
+* Shopify
+* Shopify Liquid
+
+### 💼 Current Focus
+
+* Building Shopify Stores & Custom Themes
+* Creating E-commerce Solutions
+* Scaling Products at Vyora.club
+* Expanding Full Stack Development Skills
+
+### 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-linkedin
+* Portfolio: https://your-portfolio.com
+* GitHub: https://github.com/Dilshadkhan08
+
+### 🤝 Open To
+
+* Shopify Development Projects
+* Freelance Opportunities
+* Full-Time Roles
+* Collaborations
+
+Thanks for visiting my profile! 🚀
+
